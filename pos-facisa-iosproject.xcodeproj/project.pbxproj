@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		98526E5720C0DFE50053696C /* City.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98526E5620C0DFE50053696C /* City.swift */; };
+		986BA5DD20C62169000E5669 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 986BA5DC20C62169000E5669 /* DetailViewController.swift */; };
 		98887AFA20BE0D09005CCAEA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98887AF920BE0D09005CCAEA /* AppDelegate.swift */; };
 		98887AFC20BE0D09005CCAEA /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98887AFB20BE0D09005CCAEA /* SearchViewController.swift */; };
 		98887AFF20BE0D09005CCAEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98887AFD20BE0D09005CCAEA /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		98526E5620C0DFE50053696C /* City.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = City.swift; sourceTree = "<group>"; };
+		986BA5DC20C62169000E5669 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		98887AF620BE0D09005CCAEA /* pos-facisa-iosproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "pos-facisa-iosproject.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		98887AF920BE0D09005CCAEA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		98887AFB20BE0D09005CCAEA /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				98887AFB20BE0D09005CCAEA /* SearchViewController.swift */,
 				98887AFD20BE0D09005CCAEA /* Main.storyboard */,
 				98887B0520BE0D0A005CCAEA /* Info.plist */,
+				986BA5DC20C62169000E5669 /* DetailViewController.swift */,
 			);
 			path = "pos-facisa-iosproject";
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				98887AFC20BE0D09005CCAEA /* SearchViewController.swift in Sources */,
 				98887AFA20BE0D09005CCAEA /* AppDelegate.swift in Sources */,
 				98526E5720C0DFE50053696C /* City.swift in Sources */,
+				986BA5DD20C62169000E5669 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
